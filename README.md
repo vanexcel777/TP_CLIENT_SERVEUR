@@ -63,9 +63,9 @@ python3 serverSimple.py
 
 ### instruction
 
--> mettre un fichier dans mla meme repetroire  ou se trouve le code python
+-> mettre un fichier dans la meme repetroire  ou se trouve le code python
 
--> le fichier doit  avoir un codtenue( image , texte)
+-> le fichier doit  avoir un contenue qui est  image , texte 
 
 
 creer un fichier text (ex: mess.txt)
